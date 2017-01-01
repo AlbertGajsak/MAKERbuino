@@ -19,7 +19,7 @@
           },
           "url": "https://albertgajsak.github.io/MAKERbuino/MAKERbuino.zip",
           "archiveFileName": "MAKERbuino.zip",
-          "checksum": "SHA-256:cadda52b54c8b97665aa4ede1b812606117dcda004a78145df858129d4d50ba94",
+          "checksum": "SHA-256:cadda52b54c8b97665aa4ede1b812606117dcda004a78145df858129d4d50ba9",
           "size": "85689",
           "boards": [
             {"name": "MAKERbuino"}
